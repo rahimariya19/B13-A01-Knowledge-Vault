@@ -259,11 +259,45 @@ body{
  }
 
  .check-p{
-     color: var(--Style, rgba(0, 25, 49, 1));
+    color: var(--Style, rgba(0, 25, 49, 1));
     font-family: Inter;
     font-size: 16px;
     font-weight: 500;
     opacity: 0.9;
 
  }
- /* Your second brain, structured by design. */
+ /* Your second brain, structured by design ends*/
+
+
+ /* Ready to think more clearly starts here  */
+ .ready-container{
+    max-width: 1440px;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+    margin-bottom: 120px;
+    background-color: #F7F6F2;
+
+ }
+ .ready-content{
+    text-align: center;
+    padding: 80px 40px 80px 40px ;
+    
+ }
+ .ready-title{
+    color: #001931;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: capitalize;
+ }
+ .ready-content-p{
+    color: #627382;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 16px;
+ }
+/* Ready to think more clearly ends here */
