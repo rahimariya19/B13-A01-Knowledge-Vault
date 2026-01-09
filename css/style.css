@@ -202,6 +202,68 @@ body{
     
 
  }
+
+ /* .card-container:hover{
+    background-color: #627382;
+ } */
  /* cards */
 
  /* Notes don't fail, Structure does ends here */
+
+ /* Your second brain, structured by design. */
+ .second-brain-container{
+    max-width: 1440px;
+    /* min-height: 652px; */
+    /* border: 2px solid red; */
+    margin: 0 auto;
+    display: flex;
+    gap: 60px;
+    margin-bottom: 120px;
+
+ }
+ .second-brain-content{
+    margin-top: 100px;
+ }
+
+ .solution{
+    color: #30B868;
+
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+ }
+ .solution-title{
+    color: #000000;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 16px;
+ }
+ .solution-p{
+    color: #000000;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-bottom: 40px;
+ }
+
+ .check{
+    display: flex;
+    gap: 6px;
+    margin-bottom: 16px;
+   
+ }
+
+ .check-p{
+     color: var(--Style, rgba(0, 25, 49, 1));
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    opacity: 0.9;
+
+ }
+ /* Your second brain, structured by design. */
